@@ -1,0 +1,5 @@
+CREATE TABLE TBL(
+	tbl_num INT NOT NULL AUTO_INCREMENT,
+	tbl_available INT NOT NULL,
+	PRIMARY KEY(tbl_num) 
+)
